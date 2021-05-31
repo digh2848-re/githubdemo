@@ -2,6 +2,6 @@
 /*test asdasdasdasd
 */
 int main(){
-  printf("hello hongik!\n");
+  printf("<h1>hello hongik!</h1>\n");
   return 0;
 }
