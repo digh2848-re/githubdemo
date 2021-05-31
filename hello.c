@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*test asdasdasdasd
+/*test 
 */
 int main(){
   printf("<h1>hello hongik!</h1>\n");
